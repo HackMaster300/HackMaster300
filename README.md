@@ -155,18 +155,6 @@ My goal is to combine **software engineering knowledge with offensive security**
 
 # 🚀 Featured Projects
 
-### 🤖 RPA & Enterprise Automation
-
-**RPA.Reset.Tentativas**
-
-Automation solution designed to reduce manual operational work by interacting with enterprise portals and processing data automatically.
-
-**Technologies**
-
-`C#` `.NET 8` `Playwright` `SQL Server` `Windows Services`
-
----
-
 ### 💰 Financial Assistant AI
 
 A mobile-oriented financial management project designed to help users understand their financial activity through automation and AI-assisted insights.
