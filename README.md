@@ -382,4 +382,20 @@ O meu objetivo é combinar os conhecimentos de **engenharia de software, redes e
 ## ⏱️ WakaTime
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 11 July 2026 - To: 10 August 2026
+
+Total Time: 21 hrs 45 mins
+
+C#                                 9 hrs 57 mins         ███████████▒░░░░░░░░░░░░░   45.33 %
+Markdown                           5 hrs 44 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
+TypeScript                         2 hrs 16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+JSON                               1 hr 15 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+SQL                                1 hr 2 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Git Config                         28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Razor                              25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+XML                                16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+```
+
 <!--END_SECTION:waka-->
