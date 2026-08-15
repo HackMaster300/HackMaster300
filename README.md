@@ -384,18 +384,18 @@ O meu objetivo é combinar os conhecimentos de **engenharia de software, redes e
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2026 - To: 12 August 2026
+From: 14 July 2026 - To: 13 August 2026
 
-Total Time: 30 hrs 59 mins
+Total Time: 34 hrs 40 mins
 
-C#                                 12 hrs 20 mins        █████████▒░░░░░░░░░░░░░░░   36.93 %
-Markdown                           7 hrs 52 mins         ██████░░░░░░░░░░░░░░░░░░░   23.56 %
-TypeScript                         4 hrs 3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-Other                              2 hrs 26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-JSON                               2 hrs 1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-HTML                               1 hr 25 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-SQL                                1 hr 12 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Git Config                         38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+C#                                 13 hrs 10 mins        █████████░░░░░░░░░░░░░░░░   35.41 %
+Markdown                           9 hrs 2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.30 %
+TypeScript                         5 hrs 21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Other                              2 hrs 30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+JSON                               2 hrs 2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+HTML                               1 hr 26 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+SQL                                1 hr 12 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Razor                              38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
