@@ -384,18 +384,18 @@ O meu objetivo é combinar os conhecimentos de **engenharia de software, redes e
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2026 - To: 17 October 2026
+From: 18 September 2026 - To: 18 October 2026
 
-Total Time: 44 hrs 30 mins
+Total Time: 40 hrs 58 mins
 
-C#                                 12 hrs 14 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
-Markdown                           10 hrs 33 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
-TypeScript                         7 hrs 42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
-Razor                              4 hrs 45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-Python                             2 hrs 41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Other                              2 hrs 6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-XML                                1 hr 29 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Text                               1 hr 23 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+C#                                 11 hrs 52 mins        ███████░░░░░░░░░░░░░░░░░░   27.58 %
+Markdown                           10 hrs 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.97 %
+TypeScript                         7 hrs 24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+Razor                              2 hrs 48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Python                             2 hrs 41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Other                              2 hrs 6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+XML                                1 hr 29 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Text                               1 hr 23 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
