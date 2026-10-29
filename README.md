@@ -384,7 +384,7 @@ O meu objetivo é combinar os conhecimentos de **engenharia de software, redes e
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2026 - To: 26 October 2026
+From: 27 September 2026 - To: 27 October 2026
 
 Total Time: 41 hrs 25 mins
 
